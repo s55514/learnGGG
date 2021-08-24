@@ -1,4 +1,4 @@
 git is a dis version control system
 git is free software dis under
 git have a stage
-git look change
+git look change of file
